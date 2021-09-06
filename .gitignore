@@ -1,0 +1,16 @@
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+bin/
+
+### Visual Studio Code ###
+.vscode/
+
+# Git
+# package-lock.json
+
+#.DS_Store
+src/havana/.DS_Store
+.DS_Store
